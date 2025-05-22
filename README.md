@@ -4,4 +4,8 @@
   </a>
 </p>
 
-# Palo-Alto-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Palo-Alto-Highlights/main/images/PaloAlto.png" alt="Palo Alto Highlights" width="600">
+</p>
+
+> This section demonstrates experience working with Palo Alto firewalls and security policies for network protection and threat prevention.
